@@ -1,2 +1,3 @@
-a=input("Enter your Name")
+
+a=input("Enter Name")
 print(a)
